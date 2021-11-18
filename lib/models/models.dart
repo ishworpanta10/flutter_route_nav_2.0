@@ -1,3 +1,4 @@
+export 'app_state_manager.dart';
 export 'explore_data.dart';
 export 'explore_recipe.dart';
 export 'fooderlich_pages.dart';
